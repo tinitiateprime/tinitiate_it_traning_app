@@ -53,7 +53,43 @@
           "md_url": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/06-server-actions.md"
         }
       ]
+    },
+    {
+      "subject": "angular",
+      "topics": [
+        {
+          "topic_name": "README",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/README.md"
+        },
+        {
+          "topic_name": "Installation",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/01-installation.md"
+        },
+        {
+          "topic_name": "Components",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/03-components.md"
+        },
+        {
+          "topic_name": "Directives",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/05-directives.md"
+        },
+        {
+          "topic_name": "Pipes",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/06-pipes.md"
+        },
+        {
+          "topic_name": "Services & Dependency Injection",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/07-services_and_DependencyInjection.md"
+        },
+        {
+          "topic_name": "Reactive Forms",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/10-forms_reactive.md"
+        },
+        {
+          "topic_name": "HttpClient",
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/11-httpclient.md"
+        }
+      ]
     }
   ]
 }
-
