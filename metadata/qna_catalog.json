@@ -8,7 +8,7 @@
           "md_url": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/README.md"
         },
         {
-          "topic_name": "Introduction",
+          "topic_name": "introduction",
           "md_url": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/01-introduction.md"
         },
         {
@@ -40,59 +40,28 @@
           "md_url": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/09-forms.md"
         }
       ]
-    },
-    {
-      "subject": "nextjs",
-      "topics": [
-        {
-          "topic_name": "01-introduction",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/01-introduction.md"
         },
         {
-          "topic_name": "06-server-actions",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/06-server-actions.md"
+          "subject": "nextjs",
+          "topics": [
+            {
+              "topic_name": "01-introduction",
+              "md_url": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/01-introduction.md"
+            },
+            {
+              "topic_name": "06-server-actions",
+              "md_url": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/06-server-actions.md"
+            }
+          ]
+        },
+        {
+          "subject": "sqlserver",
+          "topics": [
+            {
+              "topic_name": "bcp",
+              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-client-tools/bcp.md"
+            }
+          ]
         }
       ]
-    },
-    {
-      "subject": "angular",
-      "topics": [
-        {
-          "topic_name": "README",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/README.md"
-        },
-        {
-          "topic_name": "Installation",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/01-installation.md"
-        },
-        {
-          "topic_name": "Components",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/03-components.md"
-        },
-        {
-          "topic_name": "Directives",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/05-directives.md"
-        },
-        {
-          "topic_name": "Pipes",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/06-pipes.md"
-        },
-        {
-          "topic_name": "Services & Dependency Injection",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/07-services_and_DependencyInjection.md"
-        },
-        {
-          "topic_name": "Reactive Forms",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/10-forms_reactive.md"
-        },
-        {
-          "topic_name": "HttpClient",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/angular/main/MD/11-httpclient.md"
-        }
-      ]
-    }
-  ]
 }
-
-
-
