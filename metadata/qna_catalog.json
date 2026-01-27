@@ -58,11 +58,24 @@
           "subject": "sqlserver",
           "topics": [
             {
-              "topic_name": "bcp",
-              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-client-tools/bcp.md"
+              "topic_name": "Sql Server",
+              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sqlserver-datatypes.md"
+            },
+            {
+              "topic_name": "Sql Server",
+              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sqlserver-db-sch-user.md"
+            },
+            {
+              "topic_name": "Sql Server",
+              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sqlserver-ddl-constraints.md"
+            },
+            {
+              "topic_name": "Sql Server",
+              "md_url": "https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sqlserver-ddl.md"
             }
           ]
         }
       ]
 }
+
 
