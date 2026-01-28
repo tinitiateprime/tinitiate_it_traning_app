@@ -13,7 +13,7 @@
         },
         {
           "topic_name": "Getting Started",
-          "md_url": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/02-getting-started.md"ß
+          "md_url": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/02-getting-started.md"
         },
         {
           "topic_name": "Tooling Setup",
@@ -77,6 +77,7 @@
         }
       ]
 }
+
 
 
 
