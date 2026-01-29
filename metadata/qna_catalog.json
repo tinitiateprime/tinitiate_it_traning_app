@@ -2,7 +2,7 @@
   "qna_catalog": [
     {
       "subject": "vuejs",
-      "subject_icon": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/subject_icon",
+      "subject_icon": "https://raw.githubusercontent.com/Eswar-521/Vue-Js/main/vuejs-tutorial/subject_icon.png",
       "topics": [
         {
           "topic_name": "README",
@@ -44,7 +44,7 @@
     },
     {
       "subject": "nextjs",
-      "subject_icon": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/Next_icon",
+      "subject_icon": "https://raw.githubusercontent.com/Eswar-521/Next-js/main/nextjs-tutorial/Next_icon.png",
       "topics": [
         {
           "topic_name": "01-introduction",
@@ -80,3 +80,4 @@
     }
   ]
 }
+
