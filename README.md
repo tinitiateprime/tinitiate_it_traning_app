@@ -5,8 +5,6 @@ Welcome to Scroll+ Documentation.
 
 ---
 
-# 📚 Catalogs lists
-
 ## Catalog 1
 ## Catalog 2 
 ## Catalog 3
