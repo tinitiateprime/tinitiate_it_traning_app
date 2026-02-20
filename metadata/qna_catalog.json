@@ -9,7 +9,7 @@
           "md_url": "https://github.com/tinitiateprime/vue-Js/blob/main/README.md"
         },
         {
-          "topic_name": "Introduction",
+          "topic_name": "introduction",
           "md_url": "https://github.com/tinitiateprime/vue-Js/blob/main/01-introduction.md"
         },
         {
@@ -84,3 +84,4 @@
     }
   ]
 }
+
