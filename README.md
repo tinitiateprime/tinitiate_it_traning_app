@@ -13,6 +13,8 @@ https://github.com/tinitiateprime/Next-Js/blob/main/README.md
 ## Catalog 3  
 https://github.com/tinitiateprime/sqlserver/blob/main/README.md  
 
+## Catalog 4  
+https://github.com/tinitiateprime/java-fullstack/blob/main/README.md  
 ---
 
 # 📘 Catalog 1
@@ -78,3 +80,22 @@ https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sq
 
 ### SQL Server DDL  
 https://raw.githubusercontent.com/tinitiateprime/sqlserver/main/sqlserver-sql/sqlserver-ddl.md  
+
+---
+
+# 📘 Catalog 4
+
+## Core Java
+
+### Array
+https://raw.githubusercontent.com/tinitiateprime/java-fullstack/main/core-java/arrays/arrays.md 
+
+### Classes and Objects  
+https://raw.githubusercontent.com/tinitiateprime/java-fullstack/main/core-java/classes-objects/classes_objects.md
+
+### Data Structures 
+https://raw.githubusercontent.com/tinitiateprime/java-fullstack/main/core-java/data-structures/data-structures.md
+
+### Data Types
+https://raw.githubusercontent.com/tinitiateprime/java-fullstack/main/core-java/data-types/data_types.md
+
